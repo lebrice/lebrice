@@ -15,7 +15,7 @@
 
 
 
-I am completing the second year of a Research Masters degree at the Quebec Artificial Intelligence Institute (Mila).
+I am completing the second year of a Research Masters degree at the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/).
 Prior to this, I studied Computer Engineering, and had the privilege of completing four Software Engineering internships, one of which was in applied Machine Learning research.
 
 Some of my research interests include Generative models (GANs in particular), Self-Supervised Learning, and Continual Learning.
