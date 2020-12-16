@@ -16,6 +16,16 @@
 I'm a Research Masters student in Machine Learning at the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/).
 Prior to this, I studied Computer Engineering, and had the privilege of completing four Software Engineering internships, one of which was in applied Machine Learning research.
 
-Some of my research interests include Generative models (GANs in particular), Self-Supervised Learning, and **Continual Learning**.
+My research interests generally revolve around Generative models (GANs in particular), Self-Supervised Learning, **Continual Learning**, and, more recently, Reinforcement Learning.
 
 There is still a lot of work to be done before we are able to create systems that can both adapt to changes in their environment, as well as retain previously acquired knowledge. My current goal is to promote and further research in this field.
+
+
+
+On a more personal note, here are some other things I enjoy:
+- Sharing something neat and wonderful with others (cute bits of code, new songs, food, movies, etc.)
+- Fixing/repairing broken things in an elegant way
+- Philosophical discussions
+- Getting destroyed in code reviews (no, really, I love it!)
+- Chess / Videogames / Videogame development (playing around in Unity)
+- Classical / Electronic music
