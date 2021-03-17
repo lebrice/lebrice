@@ -20,7 +20,7 @@ My research interests generally revolve around Generative models (GANs in partic
 
 There is still a lot of work to be done before we are able to create systems that can both adapt to changes in their environment, as well as retain previously acquired knowledge. My current goal is to promote and further research in this field.
 
-Appart from this, I also have a great passion for videogames, sound design for games, as well as videogame lore. My only gamedev experience so far consists in one serious gamedev class at McGill, as well as writing a few little Unity projects on the side. I'd like to get more seriously involved in game development/design someday (hopefully soon).
+Appart from this, I also have a great passion for **videogames, sound design for games, as well as videogame lore**. My gamedev experience so far consists of one serious gamedev class at McGill, as well as writing a few little Unity projects on the side. I'd like to get more seriously involved in game development/design someday (hopefully soon).
 
 On a more personal note, here are some other things I enjoy:
 - Sharing something neat and wonderful with others (cute bits of code, new songs, food, movies, etc.)
