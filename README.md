@@ -16,7 +16,7 @@
 I'm a Machine Learning software developer at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I just finished my Masters degree in Machine Learning at Mila / Université de Montréal.
 Prior to this, I studied Computer Engineering, and had the privilege of completing four Software Engineering internships, one of which was in Machine Learning research.
 
-My research interests generally revolve around Generative models (GANs in particular), Self-Supervised Learning, **Continual Learning**, and, more recently, Reinforcement Learning.
+My research interests generally revolve around software development for ML, Continual Learning, Generative models (GANs), Self-Supervised Learning, and, more recently, Reinforcement Learning.
 
 There is still a lot of work to be done before we are able to create systems that can both adapt to changes in their environment, as well as retain previously acquired knowledge. My current goal is to promote and further research in this field.
 
