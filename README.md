@@ -23,9 +23,12 @@ There is still a lot of work to be done before we are able to create systems tha
 Appart from this, I also have a great passion for **videogames, sound design for games, as well as videogame lore**. My gamedev experience so far consists of one serious gamedev class at McGill, as well as writing a few little Unity projects on the side. I'd like to get more seriously involved in game development/design someday (hopefully soon).
 
 On a more personal note, here are some other things I enjoy:
+- Making GPUs go Brrrr: https://api.wandb.ai/links/lebrice/77ms1m17
 - Sharing something neat and wonderful with others (cute bits of code, new songs, food, movies, etc.)
 - Fixing/repairing broken things in an elegant way
 - Philosophical discussions
 - Getting destroyed in code reviews (no, really, I love it!)
 - Chess / Videogames / Videogame development (playing around in Unity)
 - Classical / Electronic music
+
+
