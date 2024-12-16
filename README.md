@@ -32,3 +32,4 @@ On a more personal note, here are some other things I enjoy:
 - Classical / Electronic music
 
 
+[![Lebrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebrice)](https://github.com/anuraghazra/github-readme-stats)
