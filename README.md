@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a Machine Learning software developer at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I just finished my Masters degree in Machine Learning at Mila / Université de Montréal.
+I'm a Machine Learning software developer at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I also did a Masters degree in Machine Learning at Mila / Université de Montréal.
 Prior to this, I studied Computer Engineering, and had the privilege of completing four Software Engineering internships, one of which was in Machine Learning research.
 
 My research interests generally revolve around software development for ML, Continual Learning, Generative models (GANs), Self-Supervised Learning, and, more recently, Reinforcement Learning.
