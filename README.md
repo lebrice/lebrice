@@ -23,8 +23,7 @@ Since then, my job is to **help make AI researchers more productive**. I do this
 - I create interactive tutorials to show good research and software development practices to researchers. For example, I give tutorials on writing GPU-friendly training scripts, debugging distributed training jobs, how to do profiling of GPU jobs and how to interpret profiler traces, how to write clean code, how to do proper testing, etc.
 - I created the IDT Office Hours at Mila, where researchers walk in with their laptop, and I help them sort out their issues. This has led me to meet a significant portion of the 1000+ researchers here at Mila, and to get to help on a very wide range of ML workflows.
 
-My research interests generally revolve around software development for ML, Continual Learning, Generative models (GANs), Self-Supervised Learning, and, more recently, Reinforcement Learning.
-I'm not sure if I'll do a PhD or not.
+My research interests generally revolve around software development for ML, Continual Learning, Self-Supervised Learning, and, more recently, Reinforcement Learning.
 
 There is still a lot of work to be done before we are able to create systems that can both adapt to changes in their environment, as well as retain previously acquired knowledge. My current goal is to promote and further research in this field.
 
