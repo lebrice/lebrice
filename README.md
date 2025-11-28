@@ -13,12 +13,12 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a Machine Learning software developer at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I have a Masters degree in Machine Learning from Mila / Université de Montréal.
-Prior to this, I did a Bachelors in Computer Engineering at McGill, during which I completed four Software Engineering internships, one of which was in ML research.
+I'm a Machine Learning Enginner* at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I have a Masters in Machine Learning from Mila / Université de Montréal.
+Before that, I did a Bachelors in Computer Engineering at McGill, during which I completed four Software Engineering internships.
 
-I was until recently an AI researcher at Mila, doing my Master's thesis in Continual Learning with [Irina Rish](https://sites.google.com/view/irinarish/). You can see [my list of publications here](https://scholar.google.com/citations?user=SZIdARAAAAAJ).
+I was until recently an AI researcher at Mila doing my Master's thesis in Continual Learning with [Irina Rish](https://sites.google.com/view/irinarish/). You can see [my list of publications here](https://scholar.google.com/citations?user=SZIdARAAAAAJ).
 
-Since then, my job is to **help make AI researchers more productive**. I do this in several ways:
+Since then, my job as a ML engineer* is to **help make AI researchers more productive**. I do this in several ways:
 - I create useful software tools and libraries to help them in their day-to-day. (for example [simpleparsing](www.github.com/lebrice/simpleparsing), [Sequoia](www.github.com/lebrice/Sequoia), [milatools](www.github.com/mila-iqia/milatools), [a Research Project Template](www.github.com/mila-iqia/ResearchTemplate), [torch-jax-interop](www.github.com/lebrice/torch_jax_interop), [tensor_regression](www.github.com/lebrice/tensor_regression), and many more).
 - I create interactive tutorials to show good research and software development practices to researchers. For example, I give tutorials on writing GPU-friendly training scripts, debugging distributed training jobs, how to do profiling of GPU jobs and how to interpret profiler traces, how to write clean code, how to do proper testing, etc.
 - I created the IDT Office Hours at Mila, where researchers walk in with their laptop, and I help them sort out their issues. This has led me to meet a significant portion of the 1000+ researchers here at Mila, and to get to help on a very wide range of ML workflows.
@@ -38,5 +38,6 @@ On a more personal note, here are some other things I enjoy:
 - Chess / Videogames / Videogame development (playing around in Unity)
 - Classical / Electronic music
 
+* My official job title is "Software Developer in Machine Learning" because of the office of engineers of Quebec.
 
 [![Lebrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebrice)](https://github.com/anuraghazra/github-readme-stats)
