@@ -37,6 +37,6 @@ On a more personal note, here are some other things I enjoy:
 - Chess / Videogames / Videogame development (playing around in Unity)
 - Classical / Electronic music
 
-* My official job title is "Software Developer in Machine Learning" because of the office of engineers of Quebec.
+\*: My official job title is "Software Developer in Machine Learning" because of the office of engineers of Quebec.
 
 [![Lebrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebrice)](https://github.com/anuraghazra/github-readme-stats)
