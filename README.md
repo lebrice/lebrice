@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a ML Research Enginner* at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I have a Masters in Machine Learning from Mila / Université de Montréal.
+I'm a ML Research Enginner* at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I have a Masters in Machine Learning from Université de Montréal / Mila.
 Before that, I did a Bachelors in Computer Engineering at McGill, during which I completed four Software Engineering internships.
 I was until recently an AI researcher at Mila doing my Master's thesis in Continual Learning with [Irina Rish](https://sites.google.com/view/irinarish/). You can see [my list of publications here](https://scholar.google.com/citations?user=SZIdARAAAAAJ).
 
