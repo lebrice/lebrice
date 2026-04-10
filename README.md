@@ -30,7 +30,6 @@ I'm quite experienced in large-scale distributed training, as well as massively 
 - Launched LLM pre-training jobs using up to **100 nodes** and **400 A100 GPUs** while monitoring the scaling behaviour, performance bottlenecks and resource utilization. ([Wandb report link here](https://api.wandb.ai/links/lebrice/77ms1m17))
 - Scaled up RL training (PQN algo) on up to ~200 000 parallel environments, using **16 nodes** and **64 H100 gpus**. ([Project link](https://www.github.com/lebrice/scaling_pqn))
 
-I might do a PhD in Reinforcement Learning eventually to get closer to research, particularly in RL and robotics, unless I find a research engineering role closer to RL / robotics, where I can have an impact on very interesting problems.
 
 On a more personal note, here are some other things I enjoy:
 - Sharing something neat and wonderful with others (cute bits of code, new songs, food, movies, etc.)
