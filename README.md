@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ...
 -->
 
-I'm a Research Scientist (previously Research Enginner*) at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I have a Masters in Machine Learning from Université de Montréal / Mila.
+I'm a Research Scientist (previously Research Enginner) at Mila, the Quebec Artificial Intelligence Institute [(Mila)](https://mila.quebec/en/). I have a Masters in Machine Learning from Université de Montréal / Mila.
 Before that, I did a Bachelors in Computer Engineering at McGill, during which I completed four Software Engineering internships.
 I was until recently an AI researcher at Mila doing my Master's thesis in Continual Learning with [Irina Rish](https://sites.google.com/view/irinarish/). You can see [my list of publications here](https://scholar.google.com/citations?user=SZIdARAAAAAJ).
 
@@ -38,7 +38,5 @@ On a more personal note, here are some other things I enjoy:
 - Getting destroyed in code reviews (no, really, I love it!)
 - Chess / Videogames / Videogame development (playing around in Unity)
 - Classical / Electronic music
-
-\*: My official job title is "Software Developer in Machine Learning" because of the office of engineers of Quebec.
 
 [![Lebrice's GitHub stats](https://github-readme-stats.vercel.app/api?username=lebrice)](https://github.com/anuraghazra/github-readme-stats)
